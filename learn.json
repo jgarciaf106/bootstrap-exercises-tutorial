@@ -1,6 +1,10 @@
 {
     "port": 3000,
+<<<<<<< HEAD
     "address": "https://tan-macaw-ej3iir16.ws-us03.gitpod.io",
+=======
+    "address": "https://coral-cuckoo-1ilwmvro.ws-us03.gitpod.io",
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
     "editor": "gitpod",
     "configPath": {
         "config": "learn.json",
@@ -31,7 +35,11 @@
     "difficulty": "easy",
     "video-solutions": false,
     "graded": true,
+<<<<<<< HEAD
     "session": 1775923243898724900,
+=======
+    "session": 5028958513809099000,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
     "exercises": [
         {
             "slug": "00-Welcome",
@@ -47,7 +55,11 @@
         {
             "slug": "01-Add-Bootstrap-To-Your-Website",
             "title": "01-Add-Bootstrap-To-Your-Website",
+<<<<<<< HEAD
             "done": true,
+=======
+            "done": false,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
             "path": "exercises/01-Add-Bootstrap-To-Your-Website",
             "translations": [
                 "es",
@@ -58,7 +70,11 @@
         {
             "slug": "02-Bootstrap-Skeleton",
             "title": "02-Bootstrap-Skeleton",
+<<<<<<< HEAD
             "done": true,
+=======
+            "done": false,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
             "path": "exercises/02-Bootstrap-Skeleton",
             "translations": [
                 "es",
@@ -69,7 +85,11 @@
         {
             "slug": "03-Bootstrap-Grid",
             "title": "03-Bootstrap-Grid",
+<<<<<<< HEAD
             "done": true,
+=======
+            "done": false,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
             "path": "exercises/03-Bootstrap-Grid",
             "translations": [
                 "es",
@@ -80,7 +100,11 @@
         {
             "slug": "04-Navbar",
             "title": "04-Navbar",
+<<<<<<< HEAD
             "done": true,
+=======
+            "done": false,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
             "path": "exercises/04-Navbar",
             "translations": [
                 "es",
@@ -91,7 +115,11 @@
         {
             "slug": "05-Sidebar-With-Menu",
             "title": "05-Sidebar-With-Menu",
+<<<<<<< HEAD
             "done": true,
+=======
+            "done": false,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
             "path": "exercises/05-Sidebar-With-Menu",
             "translations": [
                 "es",
@@ -102,7 +130,11 @@
         {
             "slug": "06-Jumbotron-And-Three-Boxes",
             "title": "06-Jumbotron-And-Three-Boxes",
+<<<<<<< HEAD
             "done": true,
+=======
+            "done": false,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
             "path": "exercises/06-Jumbotron-And-Three-Boxes",
             "translations": [
                 "es",
@@ -113,7 +145,11 @@
         {
             "slug": "07-Buttons-Alert-And-Table",
             "title": "07-Buttons-Alert-And-Table",
+<<<<<<< HEAD
             "done": true,
+=======
+            "done": false,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
             "path": "exercises/07-Buttons-Alert-And-Table",
             "translations": [
                 "es",
@@ -124,7 +160,11 @@
         {
             "slug": "08-Bootstrap-Forms",
             "title": "08-Bootstrap-Forms",
+<<<<<<< HEAD
             "done": true,
+=======
+            "done": false,
+>>>>>>> d8e4646a4463a03fbddd840cd451053ce499da2f
             "path": "exercises/08-Bootstrap-Forms",
             "translations": [
                 "es",
